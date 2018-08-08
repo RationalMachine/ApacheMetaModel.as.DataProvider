@@ -1,4 +1,4 @@
-# ApacheMetalModel.as.DataProvider
+# ApacheMetaModel.as.DataProvider
 Using ApacheMetaModel API with DataProvider functionality of TestNG. This makes handling data files easier to read in any OS. No more Apache POI headaches.
 What is ApacheMetaModel API?
 
